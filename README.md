@@ -19,4 +19,7 @@ on the image.
 
 # Project 3 - Self-Driving Car using CNN
 
+![Race Track](proj3/racktrack.gif)
+![Off Road](proj3/offroad.gif)
+
 # Project 4 - Advanced Lane Detection

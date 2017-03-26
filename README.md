@@ -15,9 +15,9 @@ stages:
 The hough transform output is processed to detect the slope of the lines.  The resulting lines are drawn
 on the image.
 
-![alt text](https://github.com/tslator/Udacity-Self-Driving-Car-Projects/master/src/proj1/yellow.mp4 "Project 1 Yellow Demo")
-![alt text](https://github.com/tslator/Udacity-Self-Driving-Car-Projects/master/src/proj1/white.mp4 "Project 1 White Demo")
-![alt text](https://github.com/tslator/Udacity-Self-Driving-Car-Projects/master/src/proj1/extra.mp4 "Project 1 Extra Demo")
+![alt text](https://github.com/tslator/Udacity-Self-Driving-Car-Projects/blob/master/proj1/yellow.mp4 "Project 1 Yellow Demo")
+![alt text](https://github.com/tslator/Udacity-Self-Driving-Car-Projects/blob/master/proj1/white.mp4 "Project 1 White Demo")
+![alt text](https://github.com/tslator/Udacity-Self-Driving-Car-Projects/blob/master/proj1/extra.mp4 "Project 1 Extra Demo")
 
 # Project 3 - Self-Driving Car using CNN
 

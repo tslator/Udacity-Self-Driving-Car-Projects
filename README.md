@@ -16,6 +16,8 @@ The hough transform output is processed to detect the slope of the lines.  The r
 on the image.
 
 ![Yellow](proj1/yellow.gif)
+![White](proj1/white.gif)
+![Extra](proj1/extra.gif)
 
 # Project 3 - Self-Driving Car using CNN
 

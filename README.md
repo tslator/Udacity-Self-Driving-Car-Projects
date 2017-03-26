@@ -25,3 +25,7 @@ on the image.
 ![Off Road](proj3/offroad.gif)
 
 # Project 4 - Advanced Lane Detection
+
+In the advanced lane detection project, a different approach was taken.
+
+![Project](proj4/project.gif)

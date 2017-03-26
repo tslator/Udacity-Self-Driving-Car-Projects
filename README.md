@@ -17,7 +17,7 @@ on the image.
 
 ![Yellow](proj1/yellow.gif)
 ![White](proj1/white.gif)
-![Extra](proj1/extra_640.gif)
+![Extra](proj1/extra.gif)
 
 # Project 3 - Self-Driving Car using CNN
 

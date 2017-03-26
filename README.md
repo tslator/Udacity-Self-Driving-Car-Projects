@@ -15,7 +15,7 @@ stages:
 The hough transform output is processed to detect the slope of the lines.  The resulting lines are drawn
 on the image.
 
-![Yellow](proj1/yellow.mp4)
+![Yellow](proj1/yellowgif.mp4)
 
 # Project 3 - Self-Driving Car using CNN
 

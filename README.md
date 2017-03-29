@@ -21,11 +21,15 @@ on the image.
 
 # Project 3 - Self-Driving Car using CNN
 
+The self-driving car using CNN project introduced Convolutional Neural Networks as applied to a control problem.  A simulator was used to generate images and steering angle.  Those images were then used to train the CNN and learn how to control the steering angle.
+
+The first video is of a flat race track with various curves and road features.
 ![Race Track](proj3/racetrack.gif)
+
+The second video is of an off-road track with more challenging features.
 ![Off Road](proj3/offroad.gif)
 
 # Project 4 - Advanced Lane Detection
 
-In the advanced lane detection project, a different approach was taken.
-
+In the advanced lane detection project was a revisit of lane detection using a different image processing approach.  Instead of using a Hough tranform, the images were perspective transformed to create parallel lines and the image searched to detect left/right lane lines.  In addition, lane center and radius of curvature was determined and overlaid on the image along with the lane polygon.
 ![Project](proj4/project.gif)
